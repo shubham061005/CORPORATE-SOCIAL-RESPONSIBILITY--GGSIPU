@@ -22,7 +22,7 @@ function ClubTeams() {
     },
     {
       id: 2,
-      name: "Content and PR Team",
+      name: "Sponsorship and PR Team",
       icon: "public-relation.png", // Path to your .png image
       description: "The Content and PR Team is responsible for creating engaging content and managing public relations.",
       members: [
@@ -41,7 +41,7 @@ function ClubTeams() {
     },
     {
       id: 4,
-      name: "Graphics and Design Team",
+      name: "Content and Design Team",
       icon: "vector.png", // Path to your .png image
       description: "The Graphics and Design Team creates visual content, including posters, logos, and social media graphics.",
       members: [
