@@ -22,7 +22,7 @@ function ClubTeams() {
     },
     {
       id: 2,
-      name: "Sponsorship and PR Team",
+      name: "PR and Sponsorship Team",
       icon: "public-relation.png", // Path to your .png image
       description: "The Content and PR Team is responsible for creating engaging content and managing public relations.",
       members: [

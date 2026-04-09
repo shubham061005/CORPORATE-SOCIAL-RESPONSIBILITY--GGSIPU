@@ -41,7 +41,7 @@ function Footer() {
           <i className="fab fa-instagram text-xl sm:text-2xl"></i>
         </motion.a>
         <motion.a
-          href="https://chat.whatsapp.com/IENkT5XF3Rz9u8UfcyQds3" // Replace with your WhatsApp link
+          href="https://chat.whatsapp.com/Fj6Bay5Fv1c1IfObDumwuS" // Replace with your WhatsApp link
           target="_blank"
           rel="noopener noreferrer"
           className="text-white hover:text-green-500 transition-colors duration-300"
