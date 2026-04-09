@@ -37,6 +37,7 @@ function ClubTeams() {
       description: "The Tech Team develops and maintains the club's technical infrastructure and digital presence.",
       members: [
         { name: "Krish Gupta", designation: "Web Admin", photo: "krish.png.jpeg" },
+        { name: "Himanshu_Chauhan", designation: "Executed Member", photo: "Himanshu_Chauhan.jpeg" },
       ],
     },
     {
