@@ -16,8 +16,8 @@ function ClubTeams() {
       members: [
         { name: "Shashwat Tiwari", designation: "Lead", photo: "management1.png.jpeg" },
         { name: "Abhijith", designation: "Co-Lead", photo: "management2.png.jpeg" },
-        { name: "Shonal", designation: "Executed Member", photo: "shonal.png.png" },
-        { name: "kartik", designation: "Executed Member", photo: "management4.png.jpeg" },
+        { name: "Shonal", designation: "Member", photo: "shonal.png.png" },
+        { name: "kartik", designation: "Member", photo: "management4.png.jpeg" },
       ],
     },
     {
@@ -49,8 +49,8 @@ function ClubTeams() {
       members: [
         { name: "Achint Kaur", designation: "Lead", photo: "desgin1.png.jpeg" },
         { name: "Arman", designation: "Co-Lead", photo: "design2.png.jpeg" },
-        { name: "Devanshu", designation: "Executive-Member", photo: "design2=3.png.jpeg" },
-        { name: "Shruti", designation: "Executive-Member", photo: "design4.png.jpeg" },
+        { name: "Devanshu", designation: "Member", photo: "design2=3.png.jpeg" },
+        { name: "Shruti", designation: "Member", photo: "design4.png.jpeg" },
       ],
     },
   ];
