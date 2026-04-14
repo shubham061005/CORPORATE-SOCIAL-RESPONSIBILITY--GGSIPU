@@ -26,8 +26,15 @@ function ClubTeams() {
       icon: "public-relation.png", // Path to your .png image
       description: "The Content and PR Team is responsible for creating engaging content and managing public relations.",
       members: [
-        { name: "Kardam", designation: "Lead", photo: "pr1.png.jpeg" },
-        { name: "Sachin", designation: "Co-Lead", photo: "pr2.png.jpeg" },
+        { name: "Divyanshu Choubey", designation: "Lead", photo: "Divyanshu.jpeg" },
+        { name: "Ayushi Singh", designation: "Co-Lead", photo: "Ayushi.jpeg" },
+        { name: "Devesh", designation: "Member", photo: "Devesh.jpeg" },
+        { name: "Ayan", designation: "Member", photo: "Ayan.jpeg" },
+        { name: "Akash Kumar", designation: "Member", photo: "Akash.jpeg" },
+        { name: "Vansh Singh", designation: "Member", photo: "Vansh.jpeg" },
+        { name: "Manish Kumar", designation: "Member", photo: "Manish.jpeg" },
+        { name: "Aarush Jindal", designation: "Member", photo: "Aarush.jpeg" },
+        
       ],
     },
     {
