@@ -46,6 +46,7 @@ function ClubTeams() {
         { name: "Ojus Mathur", designation: "Lead", photo: "Ojus.jpeg" },
         { name: "Shubham Shankar", designation: "Co-Lead", photo: "shubham.jpeg" },
         { name: "Himanshu Chauhan", designation: "Member", photo: "Himanshu_Chauhan.jpeg" },
+        { name: "Arnav", designation: "Member", photo: "Himanshu_Chauhan.jpeg" },
       ],
     },
     {
