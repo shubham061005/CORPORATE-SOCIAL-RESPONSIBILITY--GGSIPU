@@ -14,10 +14,17 @@ function ClubTeams() {
       icon: "team.png", // Path to your .png image
       description: "The Management Team handles the overall operations, planning, and coordination of the club.",
       members: [
-        { name: "Shashwat Tiwari", designation: "Lead", photo: "management1.png.jpeg" },
-        { name: "Abhijith", designation: "Co-Lead", photo: "management2.png.jpeg" },
-        { name: "Shonal", designation: "Member", photo: "shonal.png.png" },
-        { name: "kartik", designation: "Member", photo: "management4.png.jpeg" },
+        { name: "Prashant Baliyan", designation: "Lead", photo: "Prashant.jpg" },
+        { name: "Chirag Tomar", designation: "Co-Lead", photo: "Chirag.jpg" },
+        { name: "Yashita Gaur", designation: "Co-Lead", photo: "Yashita.jpg" },
+        { name: "Pushkar", designation: "Member", photo: "Pushkar.jpg" },
+        { name: "Divjot Bedi", designation: "Member", photo: "divjot.jpg" },
+        { name: "Raman Raj", designation: "Member", photo: "Raman.jpg" },
+        { name: "Rakshit Papnai", designation: "Member", photo: "Rakshit.jpg" },
+        { name: "Aashish Kumar", designation: "Member", photo: "Aashish.jpg" },
+        { name: "Aaryan Giri", designation: "Member", photo: "Aaryan.jpg" },
+        { name: "Aakash Dabas", designation: "Member", photo: "Aakash.jpg" },
+        
       ],
     },
     {
@@ -34,6 +41,8 @@ function ClubTeams() {
         { name: "Vansh Singh", designation: "Member", photo: "Vansh.jpeg" },
         { name: "Manish Kumar", designation: "Member", photo: "Manish.jpeg" },
         { name: "Aarush Jindal", designation: "Member", photo: "Aarush.jpeg" },
+        { name: "Rishabh Gaur", designation: "Member", photo: "Rishabh.jpg" },
+        { name: "Aaditya Upadhyay", designation: "Member", photo: "Aditya.jpeg" },
         
       ],
     },
@@ -46,7 +55,11 @@ function ClubTeams() {
         { name: "Ojus Mathur", designation: "Lead", photo: "Ojus.jpeg" },
         { name: "Shubham Shankar", designation: "Co-Lead", photo: "shubham.jpeg" },
         { name: "Himanshu Chauhan", designation: "Member", photo: "Himanshu_Chauhan.jpeg" },
-        { name: "Arnav", designation: "Member", photo: "Himanshu_Chauhan.jpeg" },
+        { name: "Satyam Kumar", designation: "Member", photo: "Satyam.jpg" },
+        { name: "Arnav", designation: "Member", photo: "Arnav.jpg" },
+        { name: "Ansh Dhiman", designation: "Member", photo: "Ansh.jpg" },
+        { name: "Sonu", designation: "Member", photo: "Sonu.jpg" },
+        { name: "Chinmay", designation: "Member", photo: "Chinmay.jpg" },
       ],
     },
     {

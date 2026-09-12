@@ -16,7 +16,7 @@ function App() {
     {
       name:"Yash Shahi",
       designation:"President",
-      photo:"Yash.jpg.jpeg",
+      photo:"Yash.jpeg",
       about:"Leader of compassion and change, our President, Yash, stands strong and wise, with a heart for service and a vision to rise.",
       linkedin:"https://www.linkedin.com/in/yash-shahi-752505341?utm_source=share_via&utm_content=profile&utm_medium=member_android",
       instagram:"https://www.instagram.com/yashshahi3906?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
