@@ -8,10 +8,6 @@ const images = [
     alt: "Cleanliness Drive 2026",
   },
    {
-    src: "csr-clean_drive-3.jpg.jpeg",
-    alt: "Cleanliness Drive 2026",
-  },
-   {
     src: "csr-clean_drive-2.jpg",
     alt: "Cleanliness Drive 2026",
   },
